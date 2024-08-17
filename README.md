@@ -21,6 +21,7 @@ Clone the Repository:
 <img width="383" alt="fg1" src="https://github.com/user-attachments/assets/feae8d44-e60b-4a9e-81a9-af72d6de86dc">
 
 Then make shell scripts an executable file using chmod u+x <file_name>
+
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/91493f6b-a572-4ecf-978e-5d38881af2d6">
 
 And run it to install dependencies, ./<file_name>
@@ -67,10 +68,6 @@ Example:
 
 4. Run Advanced Features (GeoIP, Traceroute, Multiple Interfaces)
 This option provides advanced features including GeoIP-based packet capture, traceroute visualization, and sniffing on multiple interfaces.
-
-Example:
-
-Fig8
 
 5. Exit
 This option exits the program.
