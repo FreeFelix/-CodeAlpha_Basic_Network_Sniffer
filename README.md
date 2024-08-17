@@ -20,6 +20,12 @@ Clone the Repository:
 
 <img width="383" alt="fg1" src="https://github.com/user-attachments/assets/feae8d44-e60b-4a9e-81a9-af72d6de86dc">
 
+Then make shell scripts an executable file using chmod u+x <file_name>
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/91493f6b-a572-4ecf-978e-5d38881af2d6">
+
+And run it to install dependencies, ./<file_name>
+
+
 Install the Dependencies:
 
 <img width="383" alt="fig2" src="https://github.com/user-attachments/assets/4d9cbbc1-27c2-4cda-9c19-19fb2190e8dc">
