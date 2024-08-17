@@ -27,10 +27,6 @@ Then make shell scripts an executable file using chmod u+x <file_name>
 And run it to install dependencies, ./<file_name>
 
 
-Install the Dependencies:
-
-<img width="383" alt="fig2" src="https://github.com/user-attachments/assets/4d9cbbc1-27c2-4cda-9c19-19fb2190e8dc">
-
 Setup GeoIP (Optional):
 
 Download the GeoLite2-City.mmdb file from the MaxMind website.
