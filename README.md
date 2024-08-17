@@ -18,23 +18,23 @@ GeoLite2-City.mmdb file (for GeoIP features)
 Installation
 Clone the Repository:
 
-Fig1
+<img width="383" alt="fg1" src="https://github.com/user-attachments/assets/feae8d44-e60b-4a9e-81a9-af72d6de86dc">
 
 Install the Dependencies:
 
-Fig2
+<img width="383" alt="fig2" src="https://github.com/user-attachments/assets/4d9cbbc1-27c2-4cda-9c19-19fb2190e8dc">
 
 Setup GeoIP (Optional):
 
 Download the GeoLite2-City.mmdb file from the MaxMind website.
 Update the path in advanced_features.py to point to the GeoLite2-City.mmdb file
 
-Fig3
+<img width="401" alt="3" src="https://github.com/user-attachments/assets/0ab19bb9-b559-4882-a13a-2eb9d1146a8c">
 
 Usage
 Run the main.py script to start the tool:
 
-Fig4 
+<img width="401" alt="4" src="https://github.com/user-attachments/assets/b9b564af-ce03-4ae6-865a-80f64276993b">
 
 Menu Options
 1. Scan and Display Available Network Interfaces
@@ -42,21 +42,22 @@ This option scans and lists all available network interfaces on your machine.
 
 Example:
 
-Fig5
+<img width="401" alt="5" src="https://github.com/user-attachments/assets/24656de0-abd9-4fba-8094-25ef9bd28909">
 
 2. Start Packet Capture on a Selected Interface
 This option allows you to start capturing network packets on a selected interface.
 
 Example:
 
-Fig6
+<img width="400" alt="6" src="https://github.com/user-attachments/assets/b31e47a0-8be4-4bac-b236-ff37721e7df8">
 
 3. Send and Receive Packets to a Specified Destination
 This option sends packets to a specified destination and receives responses. The destination can be an IP address or a URL.
 
 Example:
 
-Fig7
+<img width="401" alt="7" src="https://github.com/user-attachments/assets/b3edc896-fdae-4647-8dbd-d05cb2b1073b">
+
 
 4. Run Advanced Features (GeoIP, Traceroute, Multiple Interfaces)
 This option provides advanced features including GeoIP-based packet capture, traceroute visualization, and sniffing on multiple interfaces.
